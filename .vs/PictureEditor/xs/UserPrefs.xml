@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AB34E687-9A30-D06B-924A-6C4286D59EEF}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Draw.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WebCam.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/Screenshot.cs" Line="12" Column="5" />
+      <File FileName="Assets/Scripts/Draw.cs" Line="25" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
